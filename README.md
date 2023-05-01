@@ -4,9 +4,10 @@
 
 As a boot camp student, I wanted to create a prework study guide website that I would be able to view in my web browser and that would utilize HTML, CSS, Git and JavaScript.  I used HTML, CSS and JavaScript to structure the website and make the information readable and easy to find.  
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - Description
+- Table of Contents
 - Installation
 - Usage
 - Credits
