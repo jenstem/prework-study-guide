@@ -52,7 +52,7 @@ SOFTWARE.
 
 ## Features
   
-Code inclues:
+Code includes:
   
 HTML
 CSS
