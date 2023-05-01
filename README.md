@@ -20,7 +20,7 @@ N/A
 
 ## Usage
 
-The best way to use this Study Guide is to click on one of the four subheadings that you would like to refresh your kowledge on.  These include HTML, CSS, Git and JavaScript.  You can click on one or all to read through the notes provided.  In addition, you can right click and chose "Inspect", here you will see all the subheadings as well as, a study suggestion.
+The best way to use this Study Guide is to scroll to one of the four subheadings that you would like to refresh your kowledge on.  These include HTML, CSS, Git and JavaScript.  You can read one or all and go through the notes provided.  In addition, you can right click and chose "Inspect", here you will see all the subheadings as well as, a study suggestion.
   
 ## Credits
   
